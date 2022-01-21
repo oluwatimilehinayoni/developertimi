@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developertimi
 - 👀 I’m interested in programming/web development
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning PHP, MySQL
 - 💞️ I’m looking to collaborate on project related to web development
 - 📫 Reach me via email: developertimi@gmail.com
 
