@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developertimi
+- 👋 Hi, I’m Oluwatimilehin Ayoni
 - 👀 I’m interested in programming/web development
 - 🌱 I’m currently learning PHP, MySQL
 - 💞️ I’m looking to collaborate on project related to web development
